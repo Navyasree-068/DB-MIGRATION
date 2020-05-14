@@ -8,7 +8,7 @@ USE migration;
  
 */
 
-DROP TABLE IF EXISTS users051051;
+DROP TABLE IF EXISTS users051;
 
 CREATE TABLE IF NOT EXISTS users051 (
   id int(11) NOT NULL auto_increment,
